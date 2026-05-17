@@ -1,0 +1,8 @@
+{
+  "name": "Bounce Redux",
+  "description": "A high-fidelity 2D platformer inspired by the classic Nokia game 'Bounce', featuring physics-based movement, ring collection, and challenging obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
